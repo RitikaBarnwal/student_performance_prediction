@@ -36,6 +36,8 @@ Metric| Linear Regression| Baseline
 MAE| 1.27| 3.65
 R² Score| 0.80| -0.01
 
+These results are from a single train-test split. The model uses previous grades, so further validation is needed before drawing broader conclusions.
+
 These results are from a single train-test split. The model uses previous grades, so its performance should not be interpreted as evidence that study time alone can accurately predict final grades.
 
 How to Run
