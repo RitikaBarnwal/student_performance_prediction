@@ -39,8 +39,6 @@ Project Features
 
 These results are from a single train-test split. The model uses previous grades, so further validation is needed before drawing broader conclusions.
 
-These results are from a single train-test split. The model uses previous grades, so its performance should not be interpreted as evidence that study time alone can accurately predict final grades.
-
 How to Run
 
 1. Open the notebook in Google Colab.
