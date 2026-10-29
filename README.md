@@ -30,11 +30,12 @@ Project Features
 - Baseline model comparison
 - Interactive prediction interface
 
-Model Performance
+## Model Performance
 
-Metric| Linear Regression| Baseline
-MAE| 1.27| 3.65
-R² Score| 0.80| -0.01
+| Metric | Linear Regression | Baseline |
+| --- | ---: | ---: |
+| MAE | 1.27 | 3.65 |
+| R² Score | 0.80 | -0.01 |
 
 These results are from a single train-test split. The model uses previous grades, so further validation is needed before drawing broader conclusions.
 
